@@ -1,0 +1,14 @@
+/* Altera a cor dos elementos */
+form {
+   background-color: #ccc;
+   padding: 10px;
+   width: 400px;
+   border-style: solid;
+}
+div {
+padding: 5px;
+}
+textarea {
+   width: 280px;
+   height: 50px;
+}

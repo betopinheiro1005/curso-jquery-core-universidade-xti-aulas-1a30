@@ -1,0 +1,12 @@
+.formulario {
+    background-color: #ccc;
+    margin: 25px auto;
+    padding: 10px;
+}
+#message{
+    display: block;
+    background-color: #ccc;
+    border: 2px dashed black;
+    margin: 15px auto;
+    padding: 40px;
+}

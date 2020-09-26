@@ -1,0 +1,12 @@
+thead tr th{
+    background-color: black;
+    color: white;
+}
+thead, tr td, tr th{
+    border: 2px solid black;
+    padding: 2px 6px;
+    text-align: center;
+}
+.impar, .par{
+    background-color: #CCC;
+}

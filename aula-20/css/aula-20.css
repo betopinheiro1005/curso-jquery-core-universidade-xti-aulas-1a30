@@ -1,0 +1,15 @@
+#message{
+    display: block;
+    background-color: #ccc;
+    border: 2px dashed black;
+    margin: 15px auto;
+    padding: 40px;
+}
+.box{
+    display: block;
+    background-color: #ccc;
+    border: 1px solidd black;
+    text-align: center;
+    margin: 15px auto;
+    padding: 20px;
+}

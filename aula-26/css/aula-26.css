@@ -1,0 +1,14 @@
+.destaque{
+    background-color: black;
+    color: white;
+}
+.sub{
+	color:#000;
+	background:#ddd;
+}
+.maismenos{
+	margin-right: 5px;
+	width: 14px;
+	padding: 1px;
+	border: 1px solid black;
+}

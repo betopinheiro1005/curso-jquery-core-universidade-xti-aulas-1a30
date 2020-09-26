@@ -1,0 +1,13 @@
+.destaque{
+    background-color: black;
+    color: white;
+}
+.exibir_tooltip{
+	width:200px;
+	padding:2px 4px;
+	margin-top:25px;
+	border:1px solid #000;
+	color:#000;
+	background:#ddd;
+	position:absolute;
+}

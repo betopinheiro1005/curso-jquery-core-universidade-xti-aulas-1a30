@@ -1,0 +1,12 @@
+#event1, #event2{
+    background-color: #ee0;
+    border: 1px solid black;
+    padding: 60px;
+    margin-bottom: 20px;
+}
+#message1, #message2{
+    background-color: #ddd;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}

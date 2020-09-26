@@ -1,0 +1,9 @@
+.destaque {
+    border: 5px dashed black;
+    padding: 30px;
+    background-color: #ccc;
+}
+.imagem {
+    display: block;
+    margin: 5px auto;
+}
