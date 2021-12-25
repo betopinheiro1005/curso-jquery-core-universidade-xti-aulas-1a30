@@ -3,6 +3,8 @@
 
 ### [Vídeos do curso](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
 
+### Lista de aulas  
+
 Aula 02 - Instalação e Hello World jQuery  
 Aula 03 - Filosofia e organização  
 Aula 04 - Seletores simples  
