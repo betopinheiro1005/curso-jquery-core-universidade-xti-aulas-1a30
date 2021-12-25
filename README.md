@@ -1,9 +1,7 @@
 # Curso de jQuery (Core) - Aulas 1 a 30
 ## Universidade XTI (Ricardo Lopes Costa)  
 
-### Link dos vídeos  
-
-https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04
+### [Vídeos do curso](https://www.youtube.com/watch?v=YOTFZx9CeX4&list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
 
 Aula 02 - Instalação e Hello World jQuery  
 Aula 03 - Filosofia e organização  
